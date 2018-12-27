@@ -115,7 +115,7 @@ def changing_alan
 =======
      alans_new_info = "GUI"
 		 return changing_alan[:alan_kay][:known_for] = alans_new_info
->>>>>>> b060838b5de51448cfe8fb679d3926726585d720
+
 
 
 end
